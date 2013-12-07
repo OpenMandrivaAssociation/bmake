@@ -1,7 +1,7 @@
 Summary:       The NetBSD make(1) tool
 Name:          bmake
 Version:       20130123
-Release:       2
+Release:       3
 License:       BSD with advertising
 Group:         Development/Other
 URL:           ftp://ftp.NetBSD.org/pub/NetBSD/misc/sjg/
