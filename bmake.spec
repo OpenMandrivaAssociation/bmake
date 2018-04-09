@@ -1,6 +1,6 @@
 Summary:       The NetBSD make(1) tool
 Name:          bmake
-Version:       20171207
+Version:       20180222
 Release:       1
 License:       BSD with advertising
 Group:         Development/Other
