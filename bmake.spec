@@ -7,6 +7,11 @@ Group:         Development/Other
 URL:           ftp://ftp.NetBSD.org/pub/NetBSD/misc/sjg/
 Source0:       ftp://ftp.NetBSD.org/pub/NetBSD/misc/sjg/bmake-%{version}.tar.gz
 Requires:      mk-files
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: mk-files
 BuildRequires: util-linux
 
