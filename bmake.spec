@@ -1,6 +1,6 @@
 Summary:       The NetBSD make(1) tool
 Name:          bmake
-Version:       20251111
+Version:       20260714
 Release:       1
 License:       BSD with advertising
 Group:         Development/Other
@@ -26,7 +26,7 @@ bmake is similar to GNU make, even though the syntax for the advanced features
 supported in Makefiles is very different.
 
 %prep
-%setup -q -n %{name}
+%setup -q -n bmake
 
 %build
 %configure --with-default-sys-path=%{_datadir}/mk
